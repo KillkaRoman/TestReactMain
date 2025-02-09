@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="App">
-     magadan work
+     12345
      <button onClick={onClose}> закрыть </button>
     </div>
   );
